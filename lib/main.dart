@@ -123,7 +123,7 @@ class SimulatorPage extends StatelessWidget {
               ],),
             ),
           ),
-          SvgPicture.asset('assets/images/intersect.svg', width: 100),
+          SvgPicture.asset('assets/images/ula_white.svg', width: 100),
         ],
       ),
     );
