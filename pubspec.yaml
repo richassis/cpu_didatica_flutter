@@ -1,5 +1,5 @@
-name: flutter_application
-description: "A new Flutter project."
+name: cpu_didatica
+description: "A didactic CPU simulator for educational purposes."
 publish_to: "none"
 version: 0.1.0
 
